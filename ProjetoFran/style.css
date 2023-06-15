@@ -1,0 +1,13 @@
+body {
+   background-image: url(media/wallpaper.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.nav-link, .navbar-brand {
+    color: whitesmoke;
+}
+
+.letrafooter {
+    color: whitesmoke;
+}
