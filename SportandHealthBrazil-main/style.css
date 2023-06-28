@@ -1,0 +1,181 @@
+body {
+    background-color: rgb(101, 129, 101);
+}
+
+.logosite {
+    width: 285px;
+    height: 190px;
+    position: fixed;
+    top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.exh1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 60px;
+
+}
+
+.exh2 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: 40px;
+
+}
+
+.exp {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.ptp {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.avisop {
+    color: red;
+    font-size: 40px;
+}
+
+.aviso {
+    margin-top: 50px;
+    margin-left: 450px;
+
+}
+
+.carousel {
+    width: 400px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    display: inline-block;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 30px;
+    height: 30px;
+}
+
+#btn1 {
+    position: absolute;
+    top: 64%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+#btn2 {
+    position: absolute;
+    top: 140%;
+    transform: translateY(-50%);
+    z-index: 10;
+
+}
+
+#btn3 {
+    position: absolute;
+    top: 225%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+#btn4 {
+    position: absolute;
+    top: 315%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+#btn5 {
+    position: absolute;
+    top: 370%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+#btn6 {
+    position: absolute;
+    top: 450%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+#btn7 {
+    position: absolute;
+    top: 520%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+
+.carousel-control-prev {
+    left: 0;
+    margin-left: 115px;
+}
+
+.carousel-control-next {
+    right: 0;
+    margin-right: 765px;
+}
+
+.yt {
+    width: 400px;
+    height: 250px;
+    margin-left: 100px;
+}
+
+.retorno {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    margin-right: auto;
+    margin-left: 1050px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+footer {
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: left;
+}
+.rodape {
+    width: 102%;
+    margin-top: 50px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: -10px;
+    padding: 0;
+    border: 1px solid #000000;
+}
+.logorp{
+    width: 165px;
+    height: 130px;
+
+}
